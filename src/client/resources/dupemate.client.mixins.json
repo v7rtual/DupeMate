@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "dupemate.util.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin",
+		"ChatMessageMixin",
+		"HandledScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
