@@ -1,13 +1,17 @@
 # DupeMate
 
-A lightweight Minecraft Fabric mod for **1.21.9+** that should help with finding dupes
+A lightweight Minecraft Fabric mod for **1.21.9** that displays container information directly on your HUD.
 
 ## Features
 
 - **Real-time Container Info** - View chest, shulker box, and other container details without opening them
+- **HUD Overlay** - Clean, non-intrusive display showing:
+  - Container type
+  - Block coordinates
+  - Container ID
+  - Item count
 - **Optimized Rendering** - Custom texture atlas system for smooth performance
-- **Easy Toggle** - Simple commands
-- **Huge Toolkit** - Big amount of duping methods included to help finding a dupe
+- **Easy Toggle** - Simple commands to enable/disable the HUD
 
 ## Installation
 
