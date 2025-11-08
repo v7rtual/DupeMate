@@ -22,7 +22,7 @@ A lightweight Minecraft Fabric mod for **1.21.9** that displays container inform
 
 ## Requirements
 
-- Minecraft 1.21.9
+- Minecraft 1.21.9+
 - Fabric Loader 0.17.2+
 - Fabric API 0.134.0+
 
