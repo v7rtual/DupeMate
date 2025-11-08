@@ -1,6 +1,6 @@
 # DupeMate
 
-A lightweight Minecraft Fabric mod for **1.21.9** that displays container information directly on your HUD.
+A lightweight Minecraft Fabric mod for **1.21.9+** that displays container information directly on your HUD.
 
 ## Features
 
@@ -50,4 +50,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Credits
 
-Built with [Fabric](https://fabricmc.net/) for Minecraft 1.21.9
+Built with [Fabric](https://fabricmc.net/) for Minecraft 1.21.9+
